@@ -4,7 +4,7 @@ class AssessmentThree:
 
     def count_truthy(self, items):
         """Return how many values in the list evaluate to True."""
-        pass
+        
 
     def clamp(self, value, minimum, maximum):
         """Clamp value so it stays within [minimum, maximum]."""
